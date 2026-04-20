@@ -1,5 +1,5 @@
 {
-  "version": "RTICONTROLE-8.0.0.472",
+  "version": "RTICONTROLE-8.0.0.473",
   "url": "https://github.com/rti-sistemas/rticontrole-exe/releases/download/RTICONTROLE-8.0.0.472_V5/RTICONTROLE.exe",
-  "notes": "Correcao de bugs e melhorias de desempenho"
+  "notes": "Correcao de bugs em parametros MDF-e"
 }
