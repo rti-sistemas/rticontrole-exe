@@ -15,7 +15,7 @@
       "required": false
     },
     {
-      "url": "https://github.com/rti-sistemas/rticontrole-exe/releases/download/RTICONTROLE-8.0.0.472_V5/Schemas.rar",
+      "url": "https://github.com/rti-sistemas/rticontrole-exe/releases/download/RTICONTROLE-8.0.0.472_V5/e412120_v1.00.zip",
       "dest": "Schemas\\",
       "type": "folder",
       "required": false
