@@ -1,5 +1,19 @@
 {
-  "version": "RTICONTROLE-8.0.0.474",
-  "url": "https://github.com/rti-sistemas/rticontrole-exe/releases/download/RTICONTROLE-8.0.0.472_V5/RTICONTROLE.exe",
-  "notes": "Ajustes no procedimento de atualizacao automatica"
+  "version": "RTICONTROLE-8.0.0.475",
+  "notes": "Novidades desta versao: correcoes e melhorias",
+  "files": [
+    {
+      "url": "https://github.com/rti-sistemas/rticontrole-exe/releases/download/RTICONTROLE-8.0.0.472_V5/RTICONTROLE.exe",
+      "dest": "RTICONTROLE.exe",
+      "type": "exe_main",
+      "required": true
+    },
+    {
+      "url": "https://github.com/rti-sistemas/rticontrole-exe/releases/download/RTICONTROLE-8.0.0.472_V5/Updater.exe",
+      "dest": "Updater.exe",
+      "type": "updater",
+      "required": false
+    }
+  ]
 }
+
